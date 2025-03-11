@@ -5,7 +5,7 @@ int main()
 printf("enter the size of the matrix:");
 scanf("%d",&n);
  printf("enter the column iof the matrix:");
-scanf("%d",&n);
+scanf("%d",&m);
 for(i=1;i<n;i++){
  for(j=1;j<=m;j++){
    printf("@");
